@@ -89,13 +89,14 @@
 .a{
   background-color: black;
 }
+.active{
+  background-color: rgb(130, 130, 7);
+}
 .b{
   color:white;
   background-color: black;
 }
-.active{
-  background-color: rgb(130, 130, 7);
-}
 .card{
   border:1px solid white;
 }
+
