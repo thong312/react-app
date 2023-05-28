@@ -43,11 +43,7 @@ export default class Player extends Component {
                 <p className='title'>PSG</p>
                 <p className='a'><button className='b'>Detail</button></p>
             </div>
-        </div>
-      
-     
-        
-        
+        </div>    
         <div className='column'>
             <div className='card'>
                 <img src='assets/images/haaland.jpg' alt=''/>
